@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "/home/tbrough/miniconda3/envs/home-manager-env/bin/python",
+  "python.condaPath": "/home/tbrough/miniconda3/bin/conda",
+  "python.envFile": "${workspaceFolder}/.env",
+
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.mypyEnabled": false,
+
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+
+  "jupyter.jupyterServerType": "local",
+  "jupyter.interactiveWindow.mode": "perFile"
+}
