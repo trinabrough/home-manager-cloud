@@ -1,0 +1,2 @@
+To run FastApi app via uvicorn (from CLI):
+uvicorn backend.main:app --reload
