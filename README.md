@@ -41,12 +41,13 @@
 ## Project Plan
 
 ###  Milestone 1: Initial System Design
- * Define features: e.g., track rooms, appliances, maintenance tasks
- * Draw architecture diagram (see next step)
- * Pick tech stack (Flask + PostgreSQL + HTML/CSS OR React)
+ ~~* Define features: e.g., track rooms, appliances, maintenance tasks~~
+ ~~* Draw architecture diagram (see next step)~~
+ ~~* Pick tech stack (Flask + PostgreSQL + HTML/CSS OR React)~~
+ ~~* Set up development environment~~
 
 ### Milestone 2: Backend API
- * Set up Flask or FastAPI
+ ~~* Set up Flask or FastAPI~~
  * Create CRUD endpoints for rooms/appliances/tasks
  * Add unit tests
  * Connect to local PostgreSQL DB
